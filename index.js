@@ -380,8 +380,8 @@ app.get('/api/random', (req,res) => {
 
 app.get('/api/:cardNumber', (req,res) => {
     const cardsNum = req.params.cardNumber
-    if(cards[`card${cardsNum}`]){
-        res.json(cards[`card${cardsNum}`])
+    if(cards[`${cardsNum}`]){
+        res.json(cards[`${cardsNum}`])
 
     }else{
         res.json(cards['card1'])
