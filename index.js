@@ -127,7 +127,7 @@ const cards = {
     },
     'card9Reversed':{
         'name': 'moon (Reversed)',
-        'number': 9,
+        'number': '9R',
         'img': 'https://res.cloudinary.com/dd9ld7dot/image/upload/v1687531284/g1uyocbyrzpn1etfeuib.jpg',
         'title':'home',
         'meaning': 'all safe'
@@ -140,7 +140,7 @@ const cards = {
         'meaning': 'all safe'
     },
     'card10Reversed':{
-        'name': 'hut',
+        'name': 'hut (Reversed)',
         'number': '10R',
         'img': 'https://res.cloudinary.com/dd9ld7dot/image/upload/v1687531653/pqmq6h7yyinn2recgyja.jpg',
         'title':'home',
@@ -155,7 +155,7 @@ const cards = {
     },
     'card11Reversed':{
         'name': 'hanged person (Reversed)',
-        'number': 11,
+        'number': '11R',
         'img': 'https://res.cloudinary.com/dd9ld7dot/image/upload/v1687531629/nfigp4ly8xuxpa0n4air.jpg',
         'title':'home',
         'meaning': 'all safe'
@@ -374,7 +374,7 @@ app.get('/api/random', (req,res) => {
     //     res.json(cards['card2'])
     //     console.log("testing")
     // }
-    
+
     // res.json(cards)
 })
 
