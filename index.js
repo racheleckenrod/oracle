@@ -11,7 +11,8 @@ const cards = {
         'number': 1,
         'img': 'https://res.cloudinary.com/dd9ld7dot/image/upload/v1687471486/agxk2bay6dae2vyqxggy.jpg',
         'title':'home',
-        'meaning': 'all safe'
+        'meaning': 'all safe Ex commodo tempor mollit ex ullamco sunt nostrud irure reprehenderit irure Lorem consectetur proident do. Proident aliquip dolore proident elit quis nostrud laborum dolor elit. Dolore proident ex adipisicing ut tempor nulla amet et ex. Officia pariatur magna enim quis in nisi. Aliqua sint nostrud ad aliquip magna ea commodo. Labore id irure ullamco aliquip. Tempor minim amet ullamco do proident.' 
+
     },
     'card1Reversed':{
         'name': 'sky & splatter (Reversed)',
@@ -25,7 +26,7 @@ const cards = {
         'number': 2,
         'img': 'https://res.cloudinary.com/dd9ld7dot/image/upload/v1687471502/higniaa5iqap2xnmnrpx.jpg',
         'title':'home',
-        'meaning': 'all safe'
+        'meaning': 'all safe Nisi id culpa qui quis reprehenderit voluptate cillum velit do excepteur labore magna voluptate adipisicing. Sint ipsum nulla tempor velit sunt cillum ipsum tempor est nostrud laborum. Adipisicing tempor laborum eiusmod mollit id voluptate. Ad voluptate aliqua incididunt elit nisi nisi adipisicing. Id exercitation sint nostrud laborum dolor amet aute ad consequat pariatur. Quis adipisicing cillum ex irure ad pariatur dolore sint.'
     },
     'card2Reversed':{
         'name': 'blue ovary (Reversed)',
