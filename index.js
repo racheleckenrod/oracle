@@ -19,7 +19,7 @@ const cards = {
         'number': '1R',
         'img': 'https://res.cloudinary.com/dd9ld7dot/image/upload/v1687531547/fubbbtxpcb9swnupew8i.jpg',
         'title':'home',
-        'meaning': 'all safe'
+        'meaning': 'all safe Laboris eiusmod ut proident amet magna enim qui non deserunt est reprehenderit. Pariatur quis laboris ut Lorem ea voluptate laboris aliquip sint aliquip eiusmod dolore. Nulla voluptate sunt ea sit qui quis excepteur veniam deserunt ad. Consectetur deserunt labore tempor eiusmod occaecat minim veniam in aliqua minim elit laboris sunt eu. Enim anim pariatur pariatur cupidatat eiusmod minim ad nulla id pariatur consequat.'
     },
     'card2':{
         'name': 'blue ovary',
@@ -33,105 +33,105 @@ const cards = {
         'number': '2R',
         'img': 'https://res.cloudinary.com/dd9ld7dot/image/upload/v1687531593/woy2nrkgkxojopc42jxg.jpg',
         'title':'home',
-        'meaning': 'all safe'
+        'meaning': 'all safe In laboris eiusmod mollit dolor amet anim. Ut minim non ut ex ipsum tempor qui fugiat. Non fugiat do sit officia cillum. Exercitation proident esse consequat incididunt excepteur est consectetur ad consectetur dolore mollit Lorem consequat consequat.'
     },
     'card3':{
         'name': 'bird & cage',
         'number': 3,
         'img': 'https://res.cloudinary.com/dd9ld7dot/image/upload/v1687471512/jdr4dghytkkeoaggtjnx.jpg',
         'title':'home',
-        'meaning': 'all safe'
+        'meaning': 'all safe Pariatur laboris nisi do ut voluptate et. Exercitation quis ea non ipsum exercitation id cillum. Qui laborum adipisicing quis veniam voluptate in est officia in mollit sit eiusmod ipsum reprehenderit. Fugiat excepteur adipisicing laborum incididunt culpa labore cupidatat deserunt proident veniam. Sunt sunt mollit Lorem cillum cillum minim laborum. Tempor non aliqua magna elit eiusmod laborum non amet do officia anim eiusmod sunt ea.'
     },
     'card3Reversed':{
         'name': 'bird & cage (Reversed)',
         'number': '3R',
         'img': 'https://res.cloudinary.com/dd9ld7dot/image/upload/v1687531620/hrkxc0dndpxndzp6blam.jpg',
         'title':'home',
-        'meaning': 'all safe'
+        'meaning': 'all safe Incididunt aliquip id reprehenderit ex cillum pariatur aliquip. Tempor sint enim do ex ea ullamco deserunt irure quis ea. Irure nostrud enim labore enim culpa eu. Occaecat sint enim dolore ullamco eu do exercitation dolor cillum excepteur ipsum laborum aute. Pariatur nostrud esse sint consectetur cupidatat exercitation.'
     },
     'card4':{
         'name': 'flower',
         'number': 4,
         'img': 'https://res.cloudinary.com/dd9ld7dot/image/upload/v1687469681/firuopkccw1amjveyzuc.jpg',
         'title':'home',
-        'meaning': 'all safe'
+        'meaning': 'all safe Et ad sit nisi commodo do. Ipsum deserunt minim cillum ea enim elit ullamco incididunt quis magna voluptate aliqua laboris cupidatat. Exercitation nulla enim culpa elit. Nulla velit in adipisicing enim tempor. Id tempor excepteur nostrud cillum esse irure.'
     },
     'card4Reversed':{
         'name': 'flower (Reversed)',
         'number': '4R',
         'img': 'https://res.cloudinary.com/dd9ld7dot/image/upload/v1687531338/puitzkyinsboirq6kpzi.jpg',
         'title':'home',
-        'meaning': 'all safe'
+        'meaning': 'all safe Nisi minim aliqua ad sit et incididunt exercitation consectetur dolor duis cillum. Enim aliquip et laboris anim enim. Lorem consequat qui minim elit ea officia anim. Veniam deserunt cillum consectetur cillum adipisicing sint. Incididunt aliqua ad do aute mollit enim cillum mollit veniam reprehenderit sint amet id nulla. Tempor ex ex aliqua do exercitation amet reprehenderit officia veniam nostrud pariatur officia officia.'
     },
     'card5':{
         'name': 'red splatter',
         'number': 5,
         'img': 'https://res.cloudinary.com/dd9ld7dot/image/upload/v1687471498/szlgctlamgekjpw5ugiw.jpg',
         'title':'home',
-        'meaning': 'all safe'
+        'meaning': 'all safe Deserunt adipisicing pariatur Lorem deserunt voluptate proident enim ad sunt ipsum cillum. Incididunt sunt anim eu deserunt exercitation sit magna cillum magna voluptate duis in. Nostrud aute commodo sunt sit est consequat irure ea incididunt exercitation irure. Duis excepteur cupidatat cupidatat qui ad incididunt in. Laborum elit do non laboris velit in ipsum esse enim anim aliquip sit reprehenderit. Magna commodo incididunt incididunt anim aliquip adipisicing minim.'
     },
     'card5Reversed':{
         'name': 'red splatter (Reversed)',
         'number': '5R',
         'img': 'https://res.cloudinary.com/dd9ld7dot/image/upload/v1687531556/hlpp43fygjpoyincc5rc.jpg',
         'title':'home',
-        'meaning': 'all safe'
+        'meaning': 'all safe Exercitation labore deserunt et ullamco eiusmod do nulla tempor ipsum excepteur ex esse. Sit ea ad ad ut quis fugiat. Lorem cupidatat nulla anim ullamco enim irure id duis est amet. Officia voluptate sint anim occaecat ullamco ea sint eu nisi in.'
     },
     'card6':{
         'name': 'blue lines',
         'number': 6,
         'img': 'https://res.cloudinary.com/dd9ld7dot/image/upload/v1687471405/swzuysd09vdfshqpm6u7.jpg',
         'title':'home',
-        'meaning': 'all safe'
+        'meaning': 'all safe Ad dolor nulla eu enim esse aliqua commodo laboris ad. Minim sint nulla ex deserunt nostrud officia magna proident irure adipisicing. Esse exercitation do sunt est officia eu aliquip occaecat incididunt magna consequat. Adipisicing veniam dolor nisi sunt enim Lorem est occaecat irure voluptate excepteur laborum voluptate. Proident qui esse amet consequat commodo culpa sit velit qui aliqua sit labore. Aute eiusmod ullamco anim occaecat qui sint culpa tempor anim velit cillum.'
     },
     'card6Reversed':{
         'name': 'blue lines (Reversed)',
         'number': '6R',
         'img': 'https://res.cloudinary.com/dd9ld7dot/image/upload/v1687531480/na8nvmw1zb5g0dr4cv1z.jpg',
         'title':'home',
-        'meaning': 'all safe'
+        'meaning': 'all safe Do ut do duis elit nostrud incididunt consequat quis eiusmod ipsum nisi et. Nostrud fugiat quis consectetur irure laborum id aliquip ea nostrud sunt mollit ea. Consectetur non amet cillum amet ipsum enim sit quis qui. Mollit aliqua proident exercitation proident mollit dolore sit adipisicing irure. Mollit ea aliquip enim incididunt sint voluptate ullamco proident. Adipisicing esse non voluptate duis ullamco eiusmod ex nisi.'
     },
     'card7':{
         'name': 'red & yellow',
         'number': 7,
         'img': 'https://res.cloudinary.com/dd9ld7dot/image/upload/v1687471332/lj8jcxsgtzjbefpzzcow.jpg',
         'title':'home',
-        'meaning': 'all safe'
+        'meaning': 'all safe Non irure cupidatat est aliqua nulla laborum id non sunt sit cupidatat ullamco voluptate. Cillum cupidatat eu ullamco reprehenderit cillum sit mollit voluptate minim occaecat eu. Commodo do adipisicing sit elit culpa culpa amet voluptate veniam est nostrud. Amet ea elit elit et incididunt pariatur est sunt amet labore aliquip consectetur et.'
     },
     'card7Reversed':{
         'name': 'red & yellow (Reversed)',
         'number': '7R',
         'img': 'https://res.cloudinary.com/dd9ld7dot/image/upload/v1687531434/qg3njy8cq7qgcx8dm5cd.jpg',
         'title':'home',
-        'meaning': 'all safe'
+        'meaning': 'all safe Duis pariatur elit id qui velit incididunt non sit laboris. Nisi ad aliquip in eiusmod ut aliquip laboris in reprehenderit incididunt culpa Lorem. Mollit cupidatat pariatur occaecat cupidatat nulla ex pariatur aliqua nulla qui cillum in. Nisi tempor aliqua esse dolore in officia anim commodo dolore. Anim anim reprehenderit eu nulla excepteur.'
     },
     'card8':{
         'name': 'firefly',
         'number': 8,
         'img': 'https://res.cloudinary.com/dd9ld7dot/image/upload/v1687469696/ic9jjgyri9bvbqgjuij2.jpg',
         'title':'home',
-        'meaning': 'all safe'
+        'meaning': 'all safe Ex non ipsum proident amet laboris cupidatat ea laboris occaecat laboris. Aliqua Lorem fugiat proident magna. In ea dolore aute enim dolor amet labore aute proident aliqua. In id duis laboris est qui ipsum irure officia non. Aute sit fugiat laboris ut.'
     },
     'card8Reversed':{
         'name': 'firefly (Reversed)',
         'number': '8R',
         'img': 'https://res.cloudinary.com/dd9ld7dot/image/upload/v1687531321/dughupjg3luzwsjjewzl.jpg',
         'title':'home',
-        'meaning': 'all safe'
+        'meaning': 'all safe Nulla veniam pariatur officia cillum. Veniam irure ad do exercitation dolore mollit cupidatat reprehenderit sit elit irure veniam. Dolor fugiat culpa sit nisi duis veniam. Nostrud sunt qui voluptate velit in labore ullamco sint do id magna Lorem incididunt. Dolore consequat fugiat laborum id magna officia qui exercitation ad amet ut esse fugiat. Consequat id sit enim cillum aliquip ipsum officia. Dolore cupidatat officia consequat est do fugiat magna veniam anim laboris.' 
     },
     'card9':{
         'name': 'moon',
         'number': 9,
         'img': 'https://res.cloudinary.com/dd9ld7dot/image/upload/v1687469723/kokuiuqk9fi99p9w5own.jpg',
         'title':'home',
-        'meaning': 'all safe'
+        'meaning': 'all safe In eiusmod exercitation ut cillum mollit aliqua veniam culpa. Laborum quis excepteur occaecat ullamco occaecat fugiat velit aute consectetur. Reprehenderit enim id excepteur consequat ut eiusmod in deserunt do. Laboris sit dolore eu minim duis minim irure officia proident ipsum tempor. Do labore non sint qui non incididunt do. Sit excepteur duis ad Lorem exercitation dolore commodo dolor.'
     },
     'card9Reversed':{
         'name': 'moon (Reversed)',
         'number': '9R',
         'img': 'https://res.cloudinary.com/dd9ld7dot/image/upload/v1687531284/g1uyocbyrzpn1etfeuib.jpg',
         'title':'home',
-        'meaning': 'all safe'
+        'meaning': 'all safe Aliquip quis minim sit deserunt tempor quis quis nisi. Et ad laborum exercitation reprehenderit ut elit laboris exercitation cillum. Sint velit est reprehenderit dolore Lorem do. Eu do ipsum elit in in consectetur cupidatat qui. Ullamco occaecat pariatur consectetur occaecat ex dolor ex. Officia officia irure laboris mollit minim incididunt dolor nostrud tempor reprehenderit. Dolor mollit velit nulla deserunt dolore deserunt ex.'
     },
     'card10':{
         'name': 'hut',
