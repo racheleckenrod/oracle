@@ -4,7 +4,7 @@ const PORT = process.env.PORT || 8080
 const cors = require('cors')
 
 app.use(cors({
-    origin: 'https://netlify.app'
+    origin: 'https://oracle-reading.netlify.app'
 }));
 
 const cards = {
