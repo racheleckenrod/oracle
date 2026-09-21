@@ -376,7 +376,7 @@ app.get('/api/random', (req,res) => {
     }else if(orient > 5){
         res.json(cards[cardReversed])
     }else{
-        res.json(cards[card1])
+        res.json(cards['card1'])
     }
     console.log(card)
     // if(cards[card]){
